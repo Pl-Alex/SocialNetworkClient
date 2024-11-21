@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="margin_small">8dp</dimen>
+    <dimen name="margin_medium">16dp</dimen>
+    <dimen name="margin_large">24dp</dimen>
+
+    <dimen name="myprofile_button_logout_padding_horizontal">35dp</dimen>
+    <dimen name="myprofile_picture_size">113dp</dimen>
+    <dimen name="myprofile_imageView_socialLogos_bottom_margin">95dp</dimen>
+    <dimen name="myprofile_icons_flow_gap">32dp</dimen>
+</resources>
