@@ -1,7 +1,30 @@
-<resources xmlns:tools="http://schemas.android.com/tools">
-    <!-- Base application theme. -->
+<resources>
     <style name="Base.Theme.SocialNetworkClient" parent="Theme.Material3.DayNight.NoActionBar">
-        <!-- Customize your dark theme here. -->
-        <!-- <item name="colorPrimary">@color/my_dark_primary</item> -->
+        <item name="colorSurface">@color/dark_grey</item>
+        <item name="colorSurfaceVariant">@color/midnight_blue</item>
+
+        <item name="colorOnSurface">@color/light_grey</item>
+        <item name="colorOnSurfaceVariant">@color/white</item>
+
+        <item name="colorOutline">@color/light_grey</item>
+        <item name="colorOutlineVariant">@color/medium_grey</item>
+
+        <item name="colorOnPrimary">@color/white</item>
+        <item name="colorPrimary">@color/midnight_blue</item>
+        <item name="colorSecondary">@color/white</item>
+
+
+        <item name="colorError">@color/red</item>
+        <item name="colorAccent">@color/orange</item>
+
+
+        <item name="textAppearanceHeadlineMedium">@style/TextAppearance.SocialNetworkClient.HeadlineMedium
+        </item>
+        <item name="textAppearanceHeadlineSmall">@style/TextAppearance.SocialNetworkClient.HeadlineSmall
+        </item>
+        <item name="textAppearanceLabelLarge">@style/TextAppearance.SocialNetworkClient.LabelLarge</item>
+        <item name="textAppearanceLabelMedium">@style/TextAppearance.SocialNetworkClient.LabelMedium</item>
+        <item name="textAppearanceLabelSmall">@style/TextAppearance.SocialNetworkClient.LabelSmall</item>
+        <item name="textAppearanceBodyMedium">@style/TextAppearance.SocialNetworkClient.BodyMedium</item>
     </style>
 </resources>
